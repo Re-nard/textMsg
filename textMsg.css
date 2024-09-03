@@ -1,0 +1,98 @@
+﻿comsms,
+smshead,
+smsct,
+smsdt,
+mes1,
+mes2,
+commail,
+mailhead,
+mailttl,
+mailhct,
+mailsdr,
+mailinf,
+ml,
+mailrvr,
+maildt,
+mailct,
+mailrep {
+    display: block;
+}
+
+comsms {
+    width: 270px;
+    margin: 0 auto;
+    background-color: #fafafa;
+    border-radius: 5px;
+    box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.05);
+}
+
+    comsms img {
+        max-width: 100%;
+    }
+
+smshead {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    background-color: #0e2c34;
+    color: #fafafa;
+    padding: 5px;
+    border-radius: 5px 5px 0 0;
+    font-family: "Open Sans", sans-serif;
+    letter-spacing: 0.1em;
+    font-size: 11px;
+}
+
+smsct {
+    padding: 5px 10px 20px;
+    height: 360px;
+    overflow-x: auto;
+}
+
+smsdt {
+    opacity: 0.35;
+    text-transform: uppercase;
+    font-weight: 900;
+    text-align: center;
+    font-size: 8px;
+    padding: 5px 0;
+}
+
+mes1,
+mes2 {
+    border-radius: 5px;
+    font-size: 11px;
+    margin-top: 10px;
+    padding: 5px;
+    width: 145px;
+    line-height: 1.1;
+}
+
+mes1 {
+    background-color: #54b0c8;
+    float: right;
+    text-align: right;
+}
+
+mes2 {
+    background-color: #d3d3d3;
+    float: left;
+}
+
+    mes1 img,
+    mes2 img {
+        border-radius: 5px;
+    }
+
+.LicorneMail_copyright_sms {
+    font-size: 9px;
+    font-family: "Open Sans", sans-serif;
+    text-align: right;
+    position: relative;
+    top: 17px;
+    color: #d1d1d1;
+}
+
+.LicorneMail_copyright span {
+    font-weight: 700;
+}
