@@ -56,6 +56,7 @@ smsdt {
     text-align: center;
     font-size: 8px;
     padding: 5px 0;
+    color: #424242;
 }
 
 mes1,
@@ -72,6 +73,7 @@ mes1 {
     background-color: #54b0c8;
     float: right;
     text-align: right;
+    color: #f9f9f9
 }
 
 mes2 {
