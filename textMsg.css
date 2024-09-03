@@ -73,12 +73,13 @@ mes1 {
     background-color: #54b0c8;
     float: right;
     text-align: right;
-    color: #f9f9f9
+    color: #f9f9f9;
 }
 
 mes2 {
     background-color: #d3d3d3;
     float: left;
+    color: #424242;
 }
 
     mes1 img,
