@@ -67,12 +67,12 @@ mes2 {
     padding: 5px;
     width: 145px;
     line-height: 1.1;
+    text-align: left;
 }
 
 mes1 {
     background-color: #54b0c8;
     float: right;
-    text-align: right;
     color: #f9f9f9;
 }
 
